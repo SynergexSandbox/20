@@ -1,2 +1,2 @@
 # 20
-This has been completely changed to see if we are downloading the head or the version pointed to by the submodule
+The previous one no longer is the newest update. This is a test to see if the new download link is downloading the head or the submod
