@@ -1,2 +1,2 @@
 # 20
-this is 20. This is an edit to 20. Another edit.
+This has been completely changed to see if we are downloading the head or the version pointed to by the submodule
